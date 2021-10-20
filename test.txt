@@ -1,6 +1,1 @@
 1. This is how we open a text file using nano text editor on *nix platform
-2. on the prompt (# or $) type  editor you want to use followed by the file name and extension
-eg. 
-$ nano test.txt 
-~vim test.text
-
