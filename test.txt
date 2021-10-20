@@ -1,0 +1,1 @@
+1. This is how we open a text file using nano text editor on *nix platform
